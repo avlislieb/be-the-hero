@@ -1,0 +1,10 @@
+Pagina de login -- ok 
+Configurando rotas
+Cadastro ONGs (
+    pagina -> ok
+    cadastro banco
+)
+Listagem de casos
+Cadastro de um novo caso
+Conectando aplicações aplicações
+Subir git
