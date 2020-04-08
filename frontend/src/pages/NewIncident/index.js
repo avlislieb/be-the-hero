@@ -33,6 +33,7 @@ export default function NewIncident(){
             alert('Cadastro efetuado com sucesso');
             history.push('/profile');
         }catch(err){
+            console.log(err, 'err');
             alert('Erro ao cradastrar caso, tente novamente.')
         }
     }

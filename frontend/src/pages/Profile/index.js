@@ -20,7 +20,7 @@ export default function Profile(){
             }
         }).then(response => {
             setIncidents(response.data);
-            
+            console.log(response.data);
         })
     }, [ongId]);
 

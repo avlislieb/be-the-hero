@@ -17,3 +17,19 @@ use Illuminate\Support\Facades\Route;
 Route::middleware('auth:api')->get('/user', function (Request $request) {
     return $request->user();
 });
+
+
+
+Route::group(['middleware' => ['sessions']], function (){
+    Route::get('/ongs', 'OngsController@index');
+    Route::post('/ongs', 'OngsController@store');
+
+    Route::post('/session', 'SessionController@store');
+    Route::delete('/session', 'SessionController@delete');
+
+    Route::get('/incidents', 'IncidentsController@index');
+    Route::post('/incidents', 'IncidentsController@store');
+    Route::delete('/incidents/{id}', 'IncidentsController@delete');
+
+    Route::get('/profile', 'ProfileController@index');
+});
