@@ -1,11 +1,11 @@
 - ola pessoinha 
 
-- esse meu projetinho pra aprender react deu inicio aparti de um curso da rocktseat e assim construi o backend e o frontend com as aulas dele no intuito de aprender react, logo eu ja tinha conhecimento em laravel, porem eu trabalhei com laravel front e back tudo junto, (sim, eu trabalhei em uma empresa X que era dessa forma e assim não começei com laravel de uma forma correta (isso na minha opinião)), e ai queria explorar o laravel de em forma de api e assim preparei o backend com o laravel e fiz os ajustes no frontend, logo não espero parar e assim fazer o frontend em vue.js pra assim trabalhar num conjunto.
+- esse meu projetinho para aprender react deu inicio a partir de um curso da rocketseat, e assim construi o backend e o frontend com as aulas, no intuito de aprender react, logo eu ja tinha conhecimento em laravel, e assim pra focar no framework e melhorar meu conhecimento no mesmo, resolvi construir o backend com laravel e explorar mais suas novas funcionalidades.
 
--------- se você chegou ate aqui -> faça um Pull request com uma mulhoria ou alguma ideia diferente, sera muito bem vindo.
+-------- se você chegou ate aqui -> faça um Pull request com uma melhoria ou alguma ideia diferente, sera muito bem vindo.
 
--------- estou aberto a participação de projetos com laravel também
+-------- estou aberto a participação de projetos, vamos conversar e trocar insigths. 
 
 contato - email: sr.silvagabriel@gmail.com - 
-assunto - projeto-laravel-github.
+assunto - projeto-be-the-hero-github.
 
