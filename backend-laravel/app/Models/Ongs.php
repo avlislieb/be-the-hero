@@ -16,4 +16,9 @@ class Ongs extends Model
     {
         return $this->hasMany(Incidents::class, 'ong_id');
     }
+
+    public static function generateTokenId()
+    {
+        return substr(uniqid('', true), 15);
+    }
 }
